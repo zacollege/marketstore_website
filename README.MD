@@ -2,6 +2,9 @@
 
 A web-based food ordering and store management application built with **PHP** and **SQL**. This project provides a complete storefront for customers to browse menus, manage a shopping cart, complete checkouts (including QRIS payment), and track orders, alongside an administrative dashboard for managing products, categories, and incoming orders.
 
+## Live Demo
+- **Website:** [https://warungreza.wuaze.com/index.php](https://warungreza.wuaze.com/index.php)
+
 ## Purpose
 This project was developed to streamline online food/product ordering and store operations through a lightweight, easy-to-deploy PHP and SQL web platform.
 
